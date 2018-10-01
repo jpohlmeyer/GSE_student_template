@@ -4,11 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>de.techfak.gse</groupId>
-    <artifactId>template</artifactId>
+    <artifactId>chessgame</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>GSE-Template-Project</name>
+    <name>ChessGame</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -68,7 +68,7 @@
                     <programs>
                         <program>
                             <mainClass>de.techfak.gse.template.HelloWorld</mainClass>
-                            <id>main</id>
+                            <id>chessgame</id>
                         </program>
                     </programs>
                 </configuration>
