@@ -67,7 +67,7 @@
                     <repositoryLayout>flat</repositoryLayout>
                     <programs>
                         <program>
-                            <mainClass>de.techfak.gse.template.HelloWorld</mainClass>
+                            <mainClass>de.techfak.gse.jpohlmeyer.ChessGame</mainClass>
                             <id>chessgame</id>
                         </program>
                     </programs>
